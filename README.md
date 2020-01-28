@@ -65,7 +65,7 @@ Analoginya, untuk berbicara kepada seseorang, kita menggunakan bahasa tertentu y
 
 ## Program "Hello, world."
 
-Mari kita mulai dengan membuat program sederhana, yakni program untuk menampilkan kalimat **“Hello, world!”** pada layar (konsol). Berikut adalah kode program tersebut.
+Mari kita mulai dengan membuat program sederhana, yakni `program` untuk menampilkan kalimat **“Hello, world!”** pada layar (konsol). Berikut adalah kode program tersebut.
 
 ```c
 #include <stdio.h>  
